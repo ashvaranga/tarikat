@@ -4,8 +4,8 @@ from telebot import types
 import yadisk
 
 # Настройки
-TELEGRAM_TOKEN = "7922205304:AAG-YuGcaIlYdFgS_huR6vBe5fjGqHVAVC4"
-YANDEX_TOKEN = "y0__xDJ7-CTARjCljgg0PvqtBMwt9GCjQgK-auQxCwObRrCQA2vdd7HIVWa4A"
+TELEGRAM_TOKEN = ""
+YANDEX_TOKEN = ""
 WORK_DIRECTORY = "/Тарикат/Тарикат полисы"  # Рабочая папка на Яндекс.Диске
 
 # Инициализация
